@@ -2,10 +2,6 @@ Soundbossino
 ============
 A [Soundboss](https://github.com/dkln/soundboss) Arduino Websocket client
 
-Setup
-=====
-The soundbossino uses the awesome [Arduino Websocket client](https://github.com/krohling/ArduinoWebsocketClient) library, make sure to put that library in your Arduino Libraries folder (eg: Documents/Arduino)
-
 Parts list
 ==========
 - [Arduino (R3)](http://www.pieterfloris.nl/shop/product.php?id_product=485)
@@ -16,3 +12,15 @@ Parts list
 Wiring
 ======
 ![wiring](https://raw.github.com/svdgraaf/soundbossino/master/sketch.png)
+
+Building
+========
+Make sure you have the latest [Arduino package](http://arduino.cc/en/Main/Software).
+
+The soundbossino uses the awesome [Arduino Websocket client](https://github.com/krohling/ArduinoWebsocketClient) library, make sure to put that library in your Arduino Libraries folder (eg: Documents/Arduino)
+
+Solder your resistor (if you have one), onto your wiring (see diagram above), and connect the wires to right ports. Load up the soundboss.ino file in your Arduino app, and connect your Arduino via the USB cable. Upload your software to your arduino. After upload, connect your network cable, reset your Arduino, and you should see the arduino connect to the Soundboss server in the logs. After that, just press the button, and you're all set!
+
+Video
+=====
+[![Youtube video here](http://img.youtube.com/vi/VEaQiwvT0Hs/0.jpg)](http://www.youtube.com/watch?v=VEaQiwvT0Hs)
