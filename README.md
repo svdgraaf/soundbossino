@@ -2,6 +2,8 @@ Soundbossino
 ============
 A [Soundboss](https://github.com/dkln/soundboss) Arduino Websocket client
 
+Yes, it's an awesome overkill application for something very simple, but did I mention it is just awesome?
+
 Parts list
 ==========
 - [Arduino (R3)](http://www.pieterfloris.nl/shop/product.php?id_product=485)
