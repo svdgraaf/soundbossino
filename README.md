@@ -6,8 +6,8 @@ Parts list
 ==========
 - [Arduino (R3)](http://www.pieterfloris.nl/shop/product.php?id_product=485)
 - [Arduino network shield](http://www.pieterfloris.nl/shop/product.php?id_product=101) or [Wifi shield](http://www.pieterfloris.nl/shop/product.php?id_product=808)
-- [Big Red Button](http://www.pieterfloris.nl/shop/product.php?id_product=162) or [similair](http://www.pieterfloris.nl/shop/product.php?id_product=167), make sure it's 3 terminal switch
-- 10k ohm resistor (optional)
+- [Big Red Button](http://www.pieterfloris.nl/shop/product.php?id_product=162) or [similair](http://www.pieterfloris.nl/shop/product.php?id_product=167), or any other bit button, just make sure it's a 3 terminal switch
+- 10k ohm resistor (optional, some buttons need it)
 
 Wiring
 ======
